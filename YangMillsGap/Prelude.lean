@@ -13,8 +13,9 @@ import YangMillsGap.Proved.plaquette_gaugeAct
 import YangMillsGap.Proved.plaquette_self
 import YangMillsGap.Proved.plaquette_swap
 import YangMillsGap.Proved.plaquette_trivialField
+import YangMillsGap.Proved.reTrU_inv
 import YangMillsGap.Proved.reTrU_one
 import YangMillsGap.Proved.wilsonAction_gaugeAct
 import YangMillsGap.Proved.wilsonAction_nonneg
 import YangMillsGap.Proved.wilsonAction_trivialField
-import YangMillsGap.Proved.reTrU_inv
+import YangMillsGap.Proved.holonomy_gaugeAct
