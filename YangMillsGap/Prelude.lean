@@ -7,3 +7,4 @@ import YangMillsGap.Proved.holonomy_trivialField
 import YangMillsGap.Proved.plaquette_self
 import YangMillsGap.Proved.plaquette_trivialField
 import YangMillsGap.Proved.wilsonAction_trivialField
+import YangMillsGap.Proved.reTrU_one
