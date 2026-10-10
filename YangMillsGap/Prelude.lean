@@ -17,6 +17,7 @@ import YangMillsGap.Proved.plaquette_eq_holonomy
 import YangMillsGap.Proved.plaquette_gaugeAct
 import YangMillsGap.Proved.plaquette_self
 import YangMillsGap.Proved.plaquette_swap
+import YangMillsGap.Proved.reTrU_eq_iff
 import YangMillsGap.Proved.reTrU_inv
 import YangMillsGap.Proved.reTrU_isClassFunction
 import YangMillsGap.Proved.reTrU_le
@@ -28,4 +29,4 @@ import YangMillsGap.Proved.wilsonAction_nonneg
 import YangMillsGap.Proved.wilsonAction_translate
 import YangMillsGap.Proved.wilsonAction_trivialField
 import YangMillsGap.Proved.wilsonLoop_gaugeAct
-import YangMillsGap.Proved.reTrU_eq_iff
+import YangMillsGap.Proved.abs_reTrU_le
