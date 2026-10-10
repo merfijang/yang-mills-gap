@@ -3,6 +3,7 @@ import YangMillsGap.Base
 import YangMillsGap.Proved.boltzmann_le_one
 import YangMillsGap.Proved.configMeasure_isProbability
 import YangMillsGap.Proved.endpoint_append
+import YangMillsGap.Proved.endpoint_rectangle
 import YangMillsGap.Proved.gaugeAct_mul
 import YangMillsGap.Proved.gaugeAct_one
 import YangMillsGap.Proved.holonomy_append
@@ -20,4 +21,4 @@ import YangMillsGap.Proved.wilsonAction_le
 import YangMillsGap.Proved.wilsonAction_nonneg
 import YangMillsGap.Proved.wilsonAction_trivialField
 import YangMillsGap.Proved.wilsonLoop_gaugeAct
-import YangMillsGap.Proved.endpoint_rectangle
+import YangMillsGap.Proved.partitionFunction_le_one
