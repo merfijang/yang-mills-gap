@@ -9,6 +9,7 @@ import YangMillsGap.Proved.gaugeAct_one
 import YangMillsGap.Proved.holonomy_append
 import YangMillsGap.Proved.holonomy_gaugeAct
 import YangMillsGap.Proved.holonomy_trivialField
+import YangMillsGap.Proved.partitionFunction_le_one
 import YangMillsGap.Proved.partitionFunction_zero
 import YangMillsGap.Proved.plaquette_eq_holonomy
 import YangMillsGap.Proved.plaquette_gaugeAct
@@ -21,4 +22,4 @@ import YangMillsGap.Proved.wilsonAction_le
 import YangMillsGap.Proved.wilsonAction_nonneg
 import YangMillsGap.Proved.wilsonAction_trivialField
 import YangMillsGap.Proved.wilsonLoop_gaugeAct
-import YangMillsGap.Proved.partitionFunction_le_one
+import YangMillsGap.Proved.wilsonAction_continuous
