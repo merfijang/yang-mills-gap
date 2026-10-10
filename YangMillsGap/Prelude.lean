@@ -3,5 +3,6 @@ import YangMillsGap.Base
 import YangMillsGap.Proved.configMeasure_isProbability
 import YangMillsGap.Proved.endpoint_append
 import YangMillsGap.Proved.holonomy_trivialField
-import YangMillsGap.Proved.plaquette_trivialField
 import YangMillsGap.Proved.plaquette_self
+import YangMillsGap.Proved.plaquette_trivialField
+import YangMillsGap.Proved.gaugeAct_mul
