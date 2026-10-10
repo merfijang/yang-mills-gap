@@ -20,3 +20,4 @@ import YangMillsGap.Proved.wilsonAction_le
 import YangMillsGap.Proved.wilsonAction_nonneg
 import YangMillsGap.Proved.wilsonAction_trivialField
 import YangMillsGap.Proved.wilsonLoop_gaugeAct
+import YangMillsGap.Proved.endpoint_rectangle
